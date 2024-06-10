@@ -1,0 +1,15 @@
+{
+  "originHash" : "8011a8e235361a342398bd2928219343273a4df0fde22d33ba78789f26cedabf",
+  "pins" : [
+    {
+      "identity" : "networkingsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kushagrauchiha/NetworkingSDK.git",
+      "state" : {
+        "revision" : "56f27503a88f647d5d0e3ad421035710b3f9e20e",
+        "version" : "0.0.3"
+      }
+    }
+  ],
+  "version" : 3
+}
